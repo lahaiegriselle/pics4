@@ -62,7 +62,7 @@
     ],
     "uniqCompNum": 199,
     "versionPublish": "5.8.0",
-    "imageResize": true,
+    "imageResize": false,
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -71,8 +71,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "chatbutton": {},
-    "mbrsiteDomain": "j71qtgz9ub",
-    "pwa-switcher": false,
+    "mbrsiteDomain": "ltuzpwzj1p",
+    "pwa-switcher": true,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "witsec-mailform": true,
@@ -107,7 +107,17 @@
     "witsec-mailform-recaptcha-hidebadge": false,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "usedWebp": false,
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/1-1655859567-1-boombo-biz-p-anya-tsareva-porn-chastnoe-porno-1-512x512.png",
+      "themeColor": "#6592e6"
+    },
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
